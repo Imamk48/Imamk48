@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello Word! I'M Imam Ardi Perdana👋
 
 <!--
 **Imamk48/Imamk48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working **Basis data** 
+- 🌱 I’m currently learning **Python**
