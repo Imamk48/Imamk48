@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working **imamardiperdana48@gmail.com** 
-- 🌱 I’m currently learning ...
+<<<<<<< HEAD
+- 🔭 I’m currently working **Basis data** 
+- 🌱 I’m currently learning **Python**
+- 😁😁😁😁
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN295andjNnQ0MmEybjM2ZG04MXpxMG14bTFmcm1qNDcyM2t3bjhldiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8Zaoyr0zW9NJLiF6Pv/giphy.gif)
+=======
